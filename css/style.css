@@ -47,7 +47,7 @@ body {
 }
 
 .contacts-title {
-  font-size: 22px;
+  font-size: 30px;
   font-weight: 700;
   line-height: 24px;
   /* color: #173357; */
@@ -55,7 +55,7 @@ body {
 }
 
 .contacts-link {
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 24px;
   color: #173357;;
@@ -64,14 +64,14 @@ body {
 }
 
 .contacts-link-type {
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 700;
   line-height: 24px;
   /* color: #173357; */
 }
 
 .tech-skills-title {
-  font-size: 22px;
+  font-size: 30px;
   font-weight: 700;
   line-height: 24px;
   margin-bottom: 20px;
@@ -85,7 +85,7 @@ body {
 }
 
 .tech-skills-item {
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 24px;
   margin-left: 15px;
@@ -103,7 +103,7 @@ body {
 }
 
 .soft-skills-title {
-  font-size: 22px;
+  font-size: 30px;
   font-weight: 700;
   line-height: 24px;
   margin-bottom: 20px;
@@ -111,32 +111,29 @@ body {
 }
 
 .soft-skills-item {
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 24px;
   margin-left: 15px;
   /* color: #173357; */
 }
 
-/* .soft-skills-text {
-  color: #173357;
-} */
 
 .profession {
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 700;
   line-height: 24px;
   margin-bottom: 25px;
 }
 
 .name {
-  font-size: 45px;
+  font-size: 50px;
   font-weight: 700;
   line-height: 89px;
 }
 
 .description {
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 400;
   line-height: 24px;
   margin-top: 24px;
@@ -147,10 +144,10 @@ body {
 }
 
 .about-me-title {
-  font-size: 22px;
+  font-size: 32px;
   font-weight: 700;
   line-height: 24px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 .about-me-title:not(:last-child) {
@@ -159,14 +156,14 @@ body {
 
 .projects-link {
   color: #173357;
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 700;
   line-height: 24px;
 }
 
 .tech-name {
   /* color: #595959; */
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 24px;
 }
@@ -178,7 +175,7 @@ body {
 
 .projects-name {
   color: #595959;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 500;
 }
 
@@ -189,7 +186,7 @@ body {
 }
 
 .projects-description {
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 500;
 }
 
@@ -198,7 +195,7 @@ body {
 }
 
 .profession-title {
-  font-size: 14npm px;
+  font-size:  18px;
   font-weight: 700;
   line-height: 24px;
   margin-top: 10px;
@@ -211,23 +208,20 @@ body {
 
 .profession-time {
   /* color: #a8a8a8; */
-  font-size: 12px;
+  font-size: 16px;
   font-weight: 400;
   line-height: 24px;
 }
 
-/* .profession-devider {
-  color: black;
-} */
 
 .profession-duties {
-  margin-top: 14px;
+  margin-top: 18px;
   margin-bottom: 30px;
 }
 
 .profession-duties-item {
   /* color: #595959; */
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 24px;
 }
@@ -237,18 +231,22 @@ body {
   /* color: black; */
 }
 
+.additional-ed{
+  margin-bottom: 20px;
+}
+
 .education-name {
   color: #89b0ee;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 700;
   line-height: 24px;
-  /* margin-bottom: 10px; */
+  margin-bottom: 10px;
 }
 
 .education-category {
   /* color: #000000; */
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 700;
   line-height: 24px;
-  /* margin-bottom: 10px; */
+  margin-bottom: 10px;
 }

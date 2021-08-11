@@ -17,9 +17,7 @@ body {
 .wrapper {
   background: #ffffff;
   display: flex;
-  /* max-width: 1200px; */
   margin: 0 auto;
-  /* box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15); */
 }
 
 .sidebar {
@@ -41,8 +39,8 @@ body {
 }
 
 .contacts-container {
-  margin-left: 40px;
-  margin-right: 40px;
+  margin-left: 30px;
+  margin-right: 30px;
   margin-top: 60px;
 }
 
@@ -50,12 +48,11 @@ body {
   font-size: 30px;
   font-weight: 700;
   line-height: 24px;
-  /* color: #173357; */
   margin-bottom: 20px;
 }
 
 .contacts-link {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 400;
   line-height: 24px;
   color: #173357;;
@@ -64,10 +61,9 @@ body {
 }
 
 .contacts-link-type {
-  font-size: 18px;
+  font-size: 14px;
   font-weight: 700;
   line-height: 24px;
-  /* color: #173357; */
 }
 
 .tech-skills-title {
@@ -75,7 +71,6 @@ body {
   font-weight: 700;
   line-height: 24px;
   margin-bottom: 20px;
-  /* color: #173357; */
 }
 
 .tech-skills-container {
@@ -89,12 +84,7 @@ body {
   font-weight: 400;
   line-height: 24px;
   margin-left: 15px;
-  /* color: #173357; */
 }
-
-/* .tech-skills-text {
-  color: #173357;
-} */
 
 .soft-skills-container {
   margin-left: 40px;
@@ -107,7 +97,6 @@ body {
   font-weight: 700;
   line-height: 24px;
   margin-bottom: 20px;
-  /* color: #173357; */
 }
 
 .soft-skills-item {
@@ -115,7 +104,6 @@ body {
   font-weight: 400;
   line-height: 24px;
   margin-left: 15px;
-  /* color: #173357; */
 }
 
 
@@ -162,14 +150,12 @@ body {
 }
 
 .tech-name {
-  /* color: #595959; */
   font-size: 18px;
   font-weight: 400;
   line-height: 24px;
 }
 
 .dots {
-  /* color: #595959; */
   font-weight: 400;
 }
 
@@ -207,7 +193,6 @@ body {
 }
 
 .profession-time {
-  /* color: #a8a8a8; */
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -220,7 +205,6 @@ body {
 }
 
 .profession-duties-item {
-  /* color: #595959; */
   font-size: 18px;
   font-weight: 400;
   line-height: 24px;
@@ -228,7 +212,6 @@ body {
 
 .profession-ach {
   margin-top: 10px;
-  /* color: black; */
 }
 
 .additional-ed{
@@ -244,7 +227,6 @@ body {
 }
 
 .education-category {
-  /* color: #000000; */
   font-size: 18px;
   font-weight: 700;
   line-height: 24px;
